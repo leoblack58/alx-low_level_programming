@@ -9,7 +9,7 @@
 
 int main(void)
 {
-	int count = 3;/*My loop will begin from the 3rd one*/
+	int count = 3; /*My loop will begin from the 3rd one*/
 
 	long int first = 1, second = 2;
 	long int next = first + second;
